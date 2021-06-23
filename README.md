@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @davidkleinjan
+- 👀 I’m interested in electronics, industrial automation, python and photography
+- 🌱 I’m currently learning electrical engineering @ THUAS & CS50 @ Harvard
